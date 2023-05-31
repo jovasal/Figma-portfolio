@@ -29,7 +29,7 @@
 
 FIGMA template isÑ Template 1
 
-**[Figma-portfolio]** is Figma-portfolio
+**[Figma-portfolio]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
