@@ -27,7 +27,7 @@
 
 > This is my first FIGMA project in Microverse with 2 first section.
 
-FIGMA template isÑ Template 1
+FIGMA template is Template 1
 
 **[Figma-portfolio]**
 
