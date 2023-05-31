@@ -25,9 +25,11 @@
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> This is my first project.
+> This is my first FIGMA project in Microverse with 2 first section.
 
-**[your_project__name]** is My-First-Project
+FIGMA template isÑ Template 1
+
+**[your_project__name]** is Figma-portfolio
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -76,7 +78,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This project is a develop reference gor beguiners
+> This project is a develop using FIGMA templates
 
 ### Prerequisites
 
@@ -92,7 +94,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/jovasal/My-First-Project.git
+  git clone https://github.com/jovasal/Figma-portfolio.git
 ```
 
 <!-- AUTHORS -->
@@ -113,9 +115,11 @@ Example commands:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Thank you so much to Miroverse course
+Thank you so much to Miroverse course and FIGMA
 
 https://www.microverse.org/es/inicio
+
+https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?type=design&node-id=0-1&t=RPW7Tc9sYQ99gXvI-0
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
