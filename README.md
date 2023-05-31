@@ -23,13 +23,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Figma-portfolio] <a name="about-project"></a>
 
 > This is my first FIGMA project in Microverse with 2 first section.
 
 FIGMA template isÑ Template 1
 
-**[your_project__name]** is Figma-portfolio
+**[Figma-portfolio]** is Figma-portfolio
 
 ## 🛠 Built With <a name="built-with"></a>
 
