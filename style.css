@@ -4,12 +4,13 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: start;
   align-content: stretch;
   box-sizing: border-box;
   width: 375px;
   height: 1100px;
   background-color: #b4aeae;
+  margin: auto;
 }
 
 .header {
@@ -17,8 +18,8 @@ body {
   flex-direction: row;
   width: 375px;
   height: 92px;
-  justify-content: center;
   justify-content: space-between;
+ 
   align-items: center;
   padding: 50px 36px 15px 24px;
   box-sizing: border-box;
@@ -111,7 +112,7 @@ body {
 .headline {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   width: 375px;
   height: 718px;
   left: 0px;
@@ -169,7 +170,7 @@ body.active {
 .connect {
   width: 117px;
   height: 24px;
-  font-family: 'Poppins';
+  font-family: "poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
