@@ -1,11 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
 body {
-background-color: #b4aeae;
-max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #b4aeae;
+  max-width: 100%;
 }
 
-.head {
+.header {
   display: flex;
   flex-direction: row;
   width: 375px;
