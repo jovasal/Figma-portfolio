@@ -118,8 +118,7 @@ body {
   align-items: center;
   order: 1;
   border-bottom-left-radius: 80px;
-  position: relative;
-  }
+}
 
 #head-section.active {
   filter: blur(4px);
