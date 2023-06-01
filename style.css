@@ -119,7 +119,6 @@ body {
   background: #fff url(/images/header.png);
   background-image: url(/images/header.png);
   background-color: #fff;*/
-  background-repeat: no-repeat;
   align-items: center;
   order: 1;
   border-bottom-left-radius: 80px;
