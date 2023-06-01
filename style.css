@@ -113,7 +113,7 @@ body {
   height: 718px;
   margin: 0;
   position: relative;
-  background: #fff url(/images/header.png);
+  background: url(/images/header.png) ,#fff;
   align-items: center;
   order: 1;
   border-bottom-left-radius: 80px;
