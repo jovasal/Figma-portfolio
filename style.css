@@ -19,12 +19,10 @@ body {
   width: 375px;
   height: 92px;
   justify-content: space-between;
- 
   align-items: center;
   padding: 50px 36px 15px 24px;
   box-sizing: border-box;
   background-color: #fff;
-  margin: 100px auto;
   order: 0;
   margin: 0;
 }
@@ -52,7 +50,6 @@ body {
 }
 
 #mobile-nav {
-  background-color: transparent;
   transition: all 0.3s ease-in-out;
   display: block;
   position: fixed;
@@ -83,12 +80,12 @@ body {
   background-color: #6070ff;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  }
+}
 
 #nav {
   display: none;
 }
-  
+
 #link {
   display: none;
 }
@@ -101,12 +98,12 @@ body {
   margin-top: 80px;
   list-style-type: none;
 }
-  
+
 .mobile-link a {
   text-decoration: none;
   font-size: 32px;
   font-weight: 600;
-  color: #ffffff;
+  color: #fff;
 }
 
 .headline {
@@ -115,8 +112,6 @@ body {
   justify-content: space-between;
   width: 375px;
   height: 718px;
-  left: 0px;
-  top: 0px;
   margin: 0;
   position: relative;
   background: #fff url(/images/header.png);
@@ -124,13 +119,12 @@ body {
   order: 1;
   border-bottom-left-radius: 80px;
   position: relative;
-  margin: 0;
-}
+  }
 
 #head-section.active {
-    filter: blur(4px);
+  filter: blur(4px);
 }
-  
+
 body.active {
   overflow-y: hidden;
 }
@@ -156,21 +150,19 @@ body.active {
   height: 146px;
   font-size: 16px;
   align-items: center;
-  font-family: "poppins";
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
   color: #344563;
   flex: none;
   order: 1;
-  flex-grow: 0;  
-  margin: 12px 24px;  
+  flex-grow: 0;
+  margin: 12px 24px;
 }
 
 .connect {
   width: 117px;
   height: 24px;
-  font-family: "poppins";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
