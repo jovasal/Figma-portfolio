@@ -79,14 +79,24 @@ In order to run this project you need:
            
 ### Setup
 
-Clone this repository to your desired folder:
+Yoy can use this repository ising the following steps:
            
-Example commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/jovasal/Figma-portfolio.git
-```
+           1. Clone a repository from www.github.com You can use the follonig link directly to the repository:
+           https://github.com/jovasal/Figma-portfolio.git
+           
+           2.Clone this repository to your desired folder:
+           
+           Example commands:
+           ```sh
+           cd my-folder
+           git clone https://github.com/jovasal/Figma-portfolio.git
+           ```
+           
+           If you prefer to download without commands, tin the link, 
+           you can press <> Code button, choose Local and then Download.zip. 
+           Remember to extrat in your faverite part of your computer.
+           
+           Finaly, you can use as a reference for your future codes.
 
 <!-- AUTHORS -->
 
